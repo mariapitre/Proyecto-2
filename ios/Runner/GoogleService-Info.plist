@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>999392625787-9daa2nsi4lr85tt8i4j2oj581apf4i6g.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.999392625787-9daa2nsi4lr85tt8i4j2oj581apf4i6g</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCq0x5N3H2eLoIxSNqN-37VnyfLWPFu8Lg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>999392625787</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.flutterflow.homeU</string>
+	<key>PROJECT_ID</key>
+	<string>neutrolab-98b2d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>neutrolab-98b2d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:999392625787:ios:75807af786324e4075cede</string>
+</dict>
+</plist>
